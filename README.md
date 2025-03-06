@@ -29,17 +29,17 @@ Neumann Boundary Conditions: Ensures no-flux conditions at domain edges.
 ## Installation
 
 To run the simulation, ensure you have the following dependencies installed:
-'''
+```
 pip install numpy scipy matplotlib pyqt5
-'''
+```
 
 Running the Simulation
 
 Run the following command:
 
-'''
+```
 python main.py
-'''
+```
 
 
 This will launch the GUI where you can adjust parameters and visualize simulation results.
